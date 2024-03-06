@@ -1,5 +1,5 @@
 ## Movie Recommendation System (Website)
-Movie Recommendation System created using Collaborative Filtering (Website) and Content based Filtering (Jupyter Notebook).
+Reel Advisor
 
 ### Objectives
 
@@ -24,10 +24,7 @@ Movie Recommendation System created using Collaborative Filtering (Website) and 
 
 
 ### Deployment
-  - The application deployed can be accessed and tested directly from [here](https://recomovie-9604.herokuapp.com/) or https://recomovie-9604.herokuapp.com/
-  - Currently the links are working perfectly and can be checked through.
+  - deployment can be done from anaconda powershell by loading the directory and running the .py file and copy the HTTP address generated and the code runs.
+  - And it can also be done through Heroku subscription plan.
+  
 
-### References
-  - https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis
-
-NOTE* - This project is implemented with additional features and changes done to the reference link mentioned above.
